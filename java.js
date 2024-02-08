@@ -6,7 +6,7 @@ const perguntas = [
       "Corinthians",
       "Coritiba"
     ],
-    correta: 0
+    correta: 1
   },
   {
     pergunta: "Quem foi o artilheiro da Copa do Mundo de 1994?",
@@ -33,7 +33,7 @@ const perguntas = [
       "Flamengo",
       "Grêmio"
     ],
-    correta: 2
+    correta: 0
   },
   {
     pergunta: "Quem era o técnico da Seleção Brasileira na conquista da Copa do Mundo de 1994?",
@@ -42,7 +42,7 @@ const perguntas = [
       "Zagallo",
       "Felipão"
     ],
-    correta: 1
+    correta: 0
   },
   {
     pergunta: "Qual jogador brasileiro foi o destaque na Copa do Mundo de 1998?",
@@ -54,7 +54,7 @@ const perguntas = [
     correta: 0
   },
   {
-    pergunta: "Qual foi o clube brasileiro que ganhou a Supercopa Libertadores em 1997?",
+    pergunta: "Qual foi o clube brasileiro que ganhou a Libertadores em 1997?",
     respostas: [
       "Grêmio",
       "Cruzeiro",
@@ -87,7 +87,7 @@ const perguntas = [
       "Palmeiras",
       "Vasco da Gama"
     ],
-    correta: 2
+    correta: 0
   }
 ];
 
